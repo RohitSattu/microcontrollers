@@ -1,7 +1,7 @@
 /*
  * Code written by Rohit Sattu
  * PIR (Passive Infrared Sensor), LEDStrip and Servo Motor
- * 
+ * track user motion
 */
 
 // include libraries
