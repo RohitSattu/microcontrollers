@@ -14,8 +14,8 @@
 
 
 
-const int trig = 11; // Defining a variable called trigger to be set to (pin 11)
-const int echo = 10; //Defining a variable called echo to be set to (pin 10)
+const int trig = 11; // Variable trigger to be set to (pin 11)
+const int echo = 10; // Variable echo to be set to (pin 10)
 const int ledWhite = 9; // the PWM (pin 9) the LED is attached to
 const int ledGreen = 8; //the ledRGB series attached to pin 8
 const int ledBlue = 4; //the ledRGB series attached to pin 4
