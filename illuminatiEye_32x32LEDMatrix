@@ -1,7 +1,10 @@
 /*
- * Code written by Rohit Sattu
- * Illuminati Eye? 
- */
+Code written by Rohit Sattu
+Illuminati Eye? 
+Required Items: 
+- 32x32 LED Matrix
+- Arduino Uno/Adafruit Feather Board?
+*/
 
 // include libraries
 #include <Adafruit_GFX.h>   // Core graphics library
