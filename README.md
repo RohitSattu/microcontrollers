@@ -12,5 +12,5 @@ In wearables,
 # motion
 - Using Arduino Uno, motion sensors, and servo-motor, I made a sample surveillance model which can detect motion and accordingly by turning in the direction where motion was sensed.
 
-# LED Matrix
+# LED Matrix (Do you have OCD?)
 - Using Arduino Uno and a 32x32 LED Matrix, I made a visualization of an eye.
