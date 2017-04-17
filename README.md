@@ -13,5 +13,5 @@ In wearables (DIGF 2004),
 # motion (DIGF 1006)
 - Using Arduino Uno, motion sensors, and servo-motor, I made a sample surveillance model which can detect motion and accordingly by turning in the direction where motion was sensed.
 
-# LED Matrix ((DIGF 1006)
+# LED Matrix (DIGF 1006)
 - Using Arduino Uno and a 32x32 LED Matrix, I made a visualization of an eye.
