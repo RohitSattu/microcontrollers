@@ -1,5 +1,6 @@
 # microcontrollers
-I have been experimenting with Arduino Uno, Adafruit Feather 32u4 Bluefruit LE, and Particle Photon as part of my course projects at OCAD University. I organized files so that it is in a suitable category (Folder). 
+I worked on Arduino Uno, Adafruit Feather 32u4 Bluefruit LE, and Particle Photon as part of some courses (DIGF 1006 & DIGF 2004) at OCAD University. 
+
 # wearables
 In wearables,
 - Using Adafruit Feather 32u4 BLE, the device will connect GSR sensor to a smart phone to get GSR readings. Which can be later used for data visualization (eg. projection mapping).
